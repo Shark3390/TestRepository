@@ -8,7 +8,9 @@ public class DoWhileLoop {
 		//FOR loop in order for us when we know the number of loops that will take place.
 		//WHILE loop once we are not sure.
 		//DO WHILE when we do certain things, i want this block of code to run at least once. even if condition is not met.it will run atleast once
-				String place = "Queens";
+				
+			//made chnages to the place
+				String place = "Bronx";
 				int start = 1;
 				
 				do
