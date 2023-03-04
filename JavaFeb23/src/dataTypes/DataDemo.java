@@ -26,6 +26,14 @@ public class DataDemo {
 		 * char
 		 */
 		
+		/*examples:
+		 * int x = 123;
+  		double y = 3.14;
+  		boolean z = true;
+  		char symbol = '@';
+  		String name = "Bro";
+		 * 
+		 */
 		
 		int container; // declaring a variable		
 		container = 56;//assigning a value to a variable
