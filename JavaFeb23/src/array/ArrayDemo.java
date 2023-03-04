@@ -3,7 +3,7 @@ package array;
 public class ArrayDemo {
 
 	public static void main(String[] args) {
-
+		// This is a one dymentional array
 		// Array : used to store multiple values in a single variable
 		
 		//Declaring array
